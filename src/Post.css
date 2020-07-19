@@ -12,7 +12,7 @@
 }
 .post__text{
     font-weight: normal;
-    padding: 20px;
+    padding: 10px 20px;
 }
 .post__header{
     display: flex;
@@ -40,5 +40,5 @@
     border-top: 1px solid lightgray;    
 }
 .post__comments{
-    padding: 20px;
+    padding: 15px 20px 10px;
 }

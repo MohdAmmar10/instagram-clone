@@ -183,20 +183,7 @@ function App() {
             ))
           }
         </div>
-        <div className="app__postsRight">
-          <InstagramEmbed
-          url='https://www.instagram.com/p/BE5M35HTcy-/?utm_source=ig_web_copy_link'
-          maxWidth={320}
-          hideCaption={false}
-          containerTagName='div'
-          protocol=''
-          injectScript
-          onLoading={()=>{}}
-          onSuccess={()=>{}}
-          onAfterRender={()=>{}}
-          onFailure={()=>{}}
-        />
-      </div>
+
       </div>
 
 
